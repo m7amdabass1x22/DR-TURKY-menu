@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Hotdrinks from './Hotdrinks'
 import Coffeeside from './Coffeeside'
 import Colddrinks from './Colddrinks'
+import More from './More'
 
 export default function App() {
 	return (
@@ -14,7 +15,7 @@ export default function App() {
 					<Route path='/' element={<Hotdrinks/>} />
 					<Route path='/Colddrinks' element={<Colddrinks/>} />
 					<Route path='/Coffeeside' element={<Coffeeside/>} />
-
+					<Route path='/More' element={<More/>} />
 
 				</Routes>
 

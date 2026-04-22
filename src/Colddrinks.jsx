@@ -24,7 +24,7 @@ export default function Colddrinks() {
     return (
 
         <div className='w-full flex justify-center bg-amber-950 '>
-            <div className='container  bg-amber-950 mt-20 text-center'>
+            <div className='container  bg-amber-950 mt-20 text-center animate__animated animate__fadeInLeft'>
                 <h1 className='text-2xl md:text-5xl font-arabic text-yellow-200'>꧁༺ مشروبات بارده ༺꧂</h1>
                 <div className='w-full grid-cols-1  place-items-center  grid md:grid-cols-2   lg:grid-cols-3 gap-10 mt-20 '>
                     <div className="card text-amber-950 border-2 border-black w-75 md:w-96  shadow-sm flex flex-col gap-3 h-150 bg-yellow-200">
