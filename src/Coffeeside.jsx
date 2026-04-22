@@ -16,9 +16,9 @@ export default function Coffeeside() {
     return (
         <div className='w-full flex justify-center bg-amber-950 '>
             <div className='container  bg-amber-950 mt-20 text-center'>
-                <h1 className='text-3xl md:text-5xl font-arabic text-yellow-200'>꧁༺  البن ༺꧂</h1>
-                <div className='w-full grid-cols-1  place-items-center  grid md:grid-cols-3 gap-10 mt-20 '>
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                <h1 className='text-2xl md:text-5xl font-arabic text-yellow-200'>꧁༺  البن ༺꧂</h1>
+                <div className='w-full grid-cols-1  place-items-center  grid md:grid-cols-2   lg:grid-cols-3 gap-10 mt-20 '>
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee1}
@@ -32,7 +32,7 @@ export default function Coffeeside() {
                             <p className='font-arabic text-2xl'>800  : الكيلو</p>                        </div>
                     </div>
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee2}
@@ -47,7 +47,7 @@ export default function Coffeeside() {
                     </div>
 
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee3}
@@ -62,7 +62,7 @@ export default function Coffeeside() {
                     </div>
 
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96  shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee4}
@@ -76,7 +76,7 @@ export default function Coffeeside() {
                             <p className='font-arabic text-2xl'>800  : الكيلو</p>                        </div>
                     </div>
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee5}
@@ -91,7 +91,7 @@ export default function Coffeeside() {
                         </div>
                     </div>
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee6}
@@ -104,7 +104,7 @@ export default function Coffeeside() {
                             <p className='font-arabic text-2xl'>400  :   النص </p>
                             <p className='font-arabic text-2xl'>800  : الكيلو</p>                        </div>
                     </div>
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee7}
@@ -118,7 +118,7 @@ export default function Coffeeside() {
                             <p className='font-arabic text-2xl'>800  : الكيلو</p>                        </div>
                     </div>
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee8}
@@ -133,7 +133,7 @@ export default function Coffeeside() {
                     </div>
 
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee9}
@@ -149,7 +149,7 @@ export default function Coffeeside() {
 
 
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee10}
@@ -164,7 +164,7 @@ export default function Coffeeside() {
                     </div>
 
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee11}
@@ -178,7 +178,7 @@ export default function Coffeeside() {
                             <p className='font-arabic text-2xl'>800  : الكيلو</p>                        </div>
                     </div>
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee12}
@@ -192,7 +192,7 @@ export default function Coffeeside() {
                             <p className='font-arabic text-2xl'>800  : الكيلو</p>                        </div>
                     </div>
 
-                    <div className="card text-amber-950 border-2 border-black w-90 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
+                    <div className="card text-amber-950 border-2 border-black w-75 md:w-96 shadow-sm flex flex-col gap-3 h-130 bg-yellow-200">
                         <figure>
                             <img className='h-110 w-full'
                                 src={coffee13}
